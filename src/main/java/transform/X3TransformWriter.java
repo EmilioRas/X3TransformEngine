@@ -1,4 +1,4 @@
-package main.java.transform;
+package transform;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

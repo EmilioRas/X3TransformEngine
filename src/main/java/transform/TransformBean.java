@@ -1,10 +1,7 @@
-package main.java.transform;
+package transform;
 
 
-//import it.er.xrab.ResolverRab;
-//import it.er.xrab.XRabProcExec;
-//import it.er.xrab.XRabResolver;
-//import it.er.xrab.XRabTransformer;
+
 
 import java.io.ByteArrayInputStream;
 import java.io.FileInputStream;

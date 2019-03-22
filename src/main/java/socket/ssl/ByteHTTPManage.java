@@ -1,4 +1,4 @@
-package main.java.socket.ssl;
+package socket.ssl;
 
 public interface ByteHTTPManage {
 

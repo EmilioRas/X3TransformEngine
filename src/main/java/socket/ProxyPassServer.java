@@ -1,10 +1,10 @@
-package main.java.socket;
+package socket;
 
 import java.net.Socket;
 
-import main.java.transform.TransformGenerator;
-import main.java.transform.TransformHTTPInstance;
-import main.java.transform.TransformPass;
+import transform.TransformGenerator;
+import  transform.TransformHTTPInstance;
+import  transform.TransformPass;
 
 public class ProxyPassServer implements Runnable{
 	

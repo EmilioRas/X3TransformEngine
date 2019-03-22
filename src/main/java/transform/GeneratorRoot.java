@@ -1,4 +1,4 @@
-package main.java.transform;
+package transform;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Inherited;

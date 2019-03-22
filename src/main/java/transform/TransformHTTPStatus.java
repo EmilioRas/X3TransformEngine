@@ -1,4 +1,4 @@
-package main.java.transform;
+package transform;
 
 public enum TransformHTTPStatus {
 	//1xx

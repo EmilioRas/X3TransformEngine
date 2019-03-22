@@ -1,4 +1,4 @@
-package main.java.transform;
+package  transform;
 
 
 import java.io.IOException;
@@ -11,10 +11,8 @@ import java.net.SocketTimeoutException;
 import java.util.HashMap;
 import java.util.Map;
 
-import main.java.socket.ConnectionManage;
+import socket.ConnectionManage;
 
-//import org.apache.log4j.LogManager;
-//import org.apache.log4j.Logger;
 
 
 public class TransformGenerator extends X3Basic implements Runnable{

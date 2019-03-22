@@ -1,4 +1,4 @@
-package main.java.socket;
+package socket;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -12,7 +12,7 @@ import java.util.GregorianCalendar;
 import java.util.Locale;
 
 
-import main.java.transform.TransformGenerator;
+import  transform.TransformGenerator;
 
 public class ConnectionManage {
 	
