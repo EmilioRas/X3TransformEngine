@@ -12,7 +12,7 @@
 	<log4j.version>1.2.12</log4j.version>
   </properties>
   <build>
-    <sourceDirectory>src</sourceDirectory>
+    <sourceDirectory>src/main/java</sourceDirectory>
     <finalName>x3TransformEngine</finalName>
     <plugins>
       <plugin>
@@ -51,7 +51,7 @@
 				  <archive>
 					<manifest>
 						<!-- Jar file entry point -->
-						<mainClass>socket.ConnectionManage</mainClass>
+						<mainClass>main.java.socket.ConnectionManage</mainClass>
 					</manifest>
 				  </archive>
 				</configuration>

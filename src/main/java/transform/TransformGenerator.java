@@ -1,4 +1,4 @@
-package transform;
+package main.java.transform;
 
 
 import java.io.IOException;
@@ -11,7 +11,7 @@ import java.net.SocketTimeoutException;
 import java.util.HashMap;
 import java.util.Map;
 
-import socket.ConnectionManage;
+import main.java.socket.ConnectionManage;
 
 //import org.apache.log4j.LogManager;
 //import org.apache.log4j.Logger;

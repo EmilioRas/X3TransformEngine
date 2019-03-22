@@ -1,4 +1,4 @@
-package transform;
+package main.java.transform;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Inherited;
@@ -7,10 +7,8 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 @Retention(RetentionPolicy.RUNTIME)
-@Target(ElementType.FIELD)
+@Target(ElementType.CONSTRUCTOR)
 @Inherited
-public @interface XTransform {
+public @interface GeneratorEngineStart {
 
-	String transformPackage() default "transform";
-	String transformClass() default "TransformBean";
 }

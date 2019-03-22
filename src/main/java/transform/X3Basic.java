@@ -1,4 +1,4 @@
-package transform;
+package main.java.transform;
 
 import java.util.Iterator;
 import java.util.Map;
