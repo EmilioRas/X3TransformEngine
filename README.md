@@ -1,7 +1,6 @@
 # X3TransformEngine
 
-<h5>To start this test you should insert 8 parameters.
-Not each param is required<h5>
+<h5>To start this test you should insert 8 parameters.<h5>
 -   1. Max test time (millis)
 -   2. Media type: ie.: \"text/html\" or \"application/pdf\" for example
 -   3. chuncked (int)

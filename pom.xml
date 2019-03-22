@@ -39,7 +39,7 @@
 				  <archive>
 					<manifest>
 						<!-- Jar file entry point -->
-						<mainClass>main.java.socket.ConnectionManage</mainClass>
+						<mainClass>socket.ConnectionManage</mainClass>
 					</manifest>
 				  </archive>
 				</configuration>
